@@ -14,8 +14,9 @@ public class Main {
 
         // Declaraçã do objeto Scanner
         Scanner sc = new Scanner(System.in);
+
         System.out.println("Digite o primeiro número inteiro");
-        numero1 = sc.nextInt(); // nextLine -> string
+        numero1 = sc.nextInt(); // nextLine -> string nextInt -> int
 
         System.out.println("Digite o segundo número inteiro");
         numero2 = sc.nextInt();
