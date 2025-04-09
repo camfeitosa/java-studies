@@ -8,9 +8,9 @@ public class FilmeTerror extends Filme {
         this.numero_sustos = numero_sustos;
     }
 
-    @Override// sobrescrita do método
+    @Override// sobrescrita do metodo
     protected void exibirInfo(){
-        super.exibirInfo(); // método da classe mãe
+        super.exibirInfo(); // metodo da classe mãe
         System.out.println("Numero de sustos: " + numero_sustos);
     }
 
