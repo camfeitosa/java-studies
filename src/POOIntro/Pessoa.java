@@ -1,4 +1,4 @@
-package POO;
+package POOIntro;
 
 // Ler ou alterar um atributo encapsulado pode ser feito a partir de getters e setters
 

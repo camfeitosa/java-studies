@@ -1,4 +1,4 @@
-package POO;
+package POOIntro;
 
 public class TestaAnimal {
     public static void main(String[] args) {

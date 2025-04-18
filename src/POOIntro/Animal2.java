@@ -1,4 +1,4 @@
-package POO;
+package POOIntro;
 
 public class Animal2 {
     public String nome;

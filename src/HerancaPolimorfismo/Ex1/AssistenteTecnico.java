@@ -1,4 +1,4 @@
-package Heranca.Ex1;
+package HerancaPolimorfismo.Ex1;
 
 public class AssistenteTecnico extends Assistente {
     public double bonusSalarial;

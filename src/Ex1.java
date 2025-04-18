@@ -8,7 +8,7 @@ public class Ex1 {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Digite o primeiro número inteiro");
-        numero1 = sc.nextInt(); // nextLine -> string | nextInt -> int
+        numero1 = sc.nextInt();
 
         System.out.println("Digite o segundo número inteiro"); // printa na tela
         numero2 = sc.nextInt(); // exibe o input do usuário

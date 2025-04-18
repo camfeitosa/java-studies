@@ -1,4 +1,4 @@
-package Heranca.Ex1;
+package HerancaPolimorfismo.Ex1;
 
 public class Assistente extends Funcionario {
     private int numeroMatricula;

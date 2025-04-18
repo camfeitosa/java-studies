@@ -1,4 +1,4 @@
-package POO;
+package POOIntro;
 
 // Criação da classe
 public class Animal{

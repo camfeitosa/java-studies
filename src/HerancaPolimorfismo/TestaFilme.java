@@ -1,4 +1,4 @@
-package Heranca;
+package HerancaPolimorfismo;
 
 public class TestaFilme {
     public static void main(String[] args) {

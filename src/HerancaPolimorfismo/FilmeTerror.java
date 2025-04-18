@@ -1,4 +1,4 @@
-package Heranca;
+package HerancaPolimorfismo;
 
 public class FilmeTerror extends Filme {
     private int numero_sustos;

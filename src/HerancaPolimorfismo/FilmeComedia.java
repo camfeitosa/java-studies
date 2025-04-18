@@ -1,4 +1,4 @@
-package Heranca;
+package HerancaPolimorfismo;
 
 public class FilmeComedia extends Filme{
     public int risadas;
