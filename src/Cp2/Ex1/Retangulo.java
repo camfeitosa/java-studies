@@ -11,11 +11,11 @@ public class Retangulo extends Figura {
     }
 
     public void calcularArea(){
-        System.out.println("Área: " + base * altura / 2);
+        System.out.println("Área: " + base * altura);
     }
 
     public void calcularPerimetro(){
-        System.out.println("Periemetro: " + 2 * ( base + altura));
+        System.out.println("Perímetro: " + 2 * ( base + altura));
     }
 
 

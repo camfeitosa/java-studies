@@ -1,4 +1,4 @@
-package Cp2;
+package Cp2.Teatro;
 
 class Ingresso{
     protected double valor;

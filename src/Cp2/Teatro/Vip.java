@@ -1,4 +1,4 @@
-package Cp2;
+package Cp2.Teatro;
 
 public class Vip extends Ingresso {
     protected double valorAdicional;

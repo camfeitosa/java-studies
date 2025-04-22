@@ -10,10 +10,8 @@ public class Funcionario {
     }
 
     public void imprimeValor(){
+        System.out.println("Nome: " + nome);
         System.out.println("Salário fixo: " + salario);
     }
 
-    public void getSalario(){
-        System.out.println(salario);
-    }
 }
